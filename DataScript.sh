@@ -16,7 +16,7 @@ fi
 while true; do
 
 	dateTime=$(date "+%Y%m%d_%H%M00")
-	file=$depotPath/$fileName\_$dateTime.csv
+	file=$depotPath/$fileName\_$dateTime.txt
 
 	echo "Creating Variable Contents"
 
