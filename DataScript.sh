@@ -1,5 +1,5 @@
 #!/bin/bash
-currentPath=$(pwd)
+currentPath="$( cd "$( dirname "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )"
 folder=Depot
 fileName=DataScript
 
