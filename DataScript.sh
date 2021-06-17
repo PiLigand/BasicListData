@@ -51,7 +51,6 @@ while true; do
 	echo "$dateTime;tag2;$tag2" >> $file
 	echo "$dateTime;tag3;$tag3" >> $file
 	echo "$dateTime;tag4;$tag4" >> $file
-	echo "$dateTime;tag5;$tag5" >> $file
 	echo "$dateTime;tagA;$tagA" >> $file
 	echo "$dateTime;tagB;$tagB" >> $file
 	echo "$dateTime;tagC;$tagC" >> $file
